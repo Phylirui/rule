@@ -240,12 +240,12 @@ rule-providers:
     behavior: classical
     path: ./ruleset/SPdirect.yaml   
   JPauto:
-    url: https://19960217.cn:5344/d/DS918/volume2/docker/share/rule/JPAUTO.yaml?sign=asZ7iBKtmlT9x55QqDeaPbRECQaEnztTW3zzkr4RaeA=:0
+    url: https://github.19960217.cn/https://raw.githubusercontent.com/Phylirui/rule/refs/heads/main/JPAUTO.yaml
     type: http
     behavior: classical
     path: ./ruleset/JPAUTO.yaml  
   HKauto:
-    url: https://19960217.cn:5344/d/DS918/volume2/docker/share/rule/HKAUTO.yaml?sign=taLanllikIk-ORUtZ97kiC-3ZRqkRYgNYpYfJ6IE8cI=:0
+    url: https://github.19960217.cn/https://raw.githubusercontent.com/Phylirui/rule/refs/heads/main/HKAUTO.yaml
     type: http
     behavior: classical
     path: ./ruleset/HKAUTO.yaml  
