@@ -1,0 +1,20 @@
+payload:
+ #EMAIL port
+    - DST-PORT,25
+    - DST-PORT,26
+    - DST-PORT,465
+    - DST-PORT,587
+    - DST-PORT,2525
+ # BT
+    - DST-PORT,6881
+    - DST-PORT,6882
+    - DST-PORT,6883
+    - DST-PORT,6884
+    - DST-PORT,6885
+    - DST-PORT,6886
+    - DST-PORT,6887
+    - DST-PORT,6888
+    - DST-PORT,6889
+    - DST-PORT,7800    
+    - DST-PORT,36800    
+    - DST-PORT,36801
