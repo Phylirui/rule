@@ -2,6 +2,7 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
+  - DOMAIN,metacubex.github.io
   - DOMAIN-SUFFIX,19960217.cn
   - DOMAIN-SUFFIX,wrt.19960217.cn
   - DOMAIN-SUFFIX,del4.19960217.cn 
