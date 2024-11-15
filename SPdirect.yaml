@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,lirui.us.kg
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ruili.site
+  - PROCESS-NAME,AdGuardHome.exe
