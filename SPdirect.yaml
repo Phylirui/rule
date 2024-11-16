@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,lirui.us.kg
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ruili.site
+  - DOMAIN-SUFFIX,ifconfig.me
   - DOMAIN-SUFFIX,mediafire.com
   - PROCESS-NAME,AdGuardHome.exe
   - PROCESS-NAME,cloudflared.exe
