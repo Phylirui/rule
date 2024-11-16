@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,ruili.site
   - DOMAIN-SUFFIX,mediafire.com
   - PROCESS-NAME,AdGuardHome.exe
+  - PROCESS-NAME,cloudflared.exe
