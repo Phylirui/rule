@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,mediafire.com
   - PROCESS-NAME,AdGuardHome.exe
   - PROCESS-NAME,cloudflared.exe
+  - PROCESS-NAME,alist.exe
