@@ -6,6 +6,7 @@ payload:
     - DST-PORT,587
     - DST-PORT,2525
  # BT
+    - DST-PORT,6800
     - DST-PORT,6881
     - DST-PORT,6882
     - DST-PORT,6883
