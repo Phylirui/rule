@@ -5,3 +5,6 @@ payload:
   - DOMAIN-SUFFIX,foamgirl.net
   - DOMAIN-SUFFIX,69av.one
   - DOMAIN-SUFFIX,av-league.com
+  - DOMAIN-SUFFIX,image.tmdb.org
+  - DOMAIN-SUFFIX,media.themoviedb.org
+  - DOMAIN-SUFFIX,api.themoviedb.org
