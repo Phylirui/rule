@@ -13,8 +13,6 @@ payload:
   - DOMAIN-SUFFIX,ruili.site
   - DOMAIN-SUFFIX,ifconfig.me
   - DOMAIN-SUFFIX,mediafire.com
-  - DOMAIN-SUFFIX,wnimg.ru
-  - DOMAIN-SUFFIX,wzip.download
   - PROCESS-NAME,AdGuardHome.exe
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,alist.exe
