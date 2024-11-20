@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,lirui.us.kg
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ruili.site
-  - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN-KEYWORD,ifconfig
   - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,v1.wzip.download
   - DOMAIN-SUFFIX,v1.wzip.date
