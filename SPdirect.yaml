@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ruili.site
   - DOMAIN-KEYWORD,ifconfig
+  - DOMAIN-KEYWORD,asmr
   - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,v1.wzip.download
   - DOMAIN-SUFFIX,v1.wzip.date
