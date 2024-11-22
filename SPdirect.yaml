@@ -12,6 +12,9 @@ payload:
   - DOMAIN-SUFFIX,lirui.us.kg
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ruili.site
+  - DOMAIN-SUFFIX,v4.plex.tv
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,plex.direct
   - DOMAIN-KEYWORD,ifconfig
   - DOMAIN-KEYWORD,pconline  
   - DOMAIN-SUFFIX,ip.sb
