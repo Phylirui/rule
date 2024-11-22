@@ -27,6 +27,8 @@ payload:
   - PROCESS-NAME,AdGuardHome.exe
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,alist.exe
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,WeChatAppEx.exe
 # Academic
 # 中国知网
   - DOMAIN-KEYWORD,cnki.net
