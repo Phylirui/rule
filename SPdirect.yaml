@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,lirui.us.kg
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ruili.site
-  - DOMAIN-SUFFIX,nel.cloudflare.com
   - DOMAIN-SUFFIX,client.wns.windows.com
   - DOMAIN-SUFFIX,v4.plex.tv
   - DOMAIN-SUFFIX,amazonaws.com
