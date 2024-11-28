@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,jstor.org
   - DOMAIN-SUFFIX,cabdirect.org
   - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,aps.org
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,sciencemag.org
   - DOMAIN-SUFFIX,osapublishing.org
