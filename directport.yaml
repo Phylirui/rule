@@ -3,7 +3,6 @@ payload:
     - DST-PORT,123
  #EMAIL port
     - DST-PORT,21-26
-    - DST-PORT,53
     - DST-PORT,110
     - DST-PORT,465
     - DST-PORT,587
