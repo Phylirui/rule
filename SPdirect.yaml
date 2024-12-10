@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,v1.wzip.date
   - DOMAIN-SUFFIX,v1.wnimg.ru
   - DOMAIN-SUFFIX,downloads.plex.tv
+  - DOMAIN-SUFFIX,download.ni.com
   - PROCESS-NAME,AdGuardHome.exe
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,alist.exe
