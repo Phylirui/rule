@@ -1,0 +1,30 @@
+payload:
+# Special
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,yacd.metacubex.one
+  - DOMAIN,metacubex.github.io
+  - DOMAIN,jsdelivr.net
+  - DOMAIN-SUFFIX,19960217.cn
+  - DOMAIN-SUFFIX,wrt.19960217.cn
+  - DOMAIN-SUFFIX,del4.19960217.cn 
+  - DOMAIN-SUFFIX,xudo.us.kg
+  - DOMAIN-SUFFIX,lirui.us.kg
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,ruili.site
+  - DOMAIN-SUFFIX,client.wns.windows.com
+  - DOMAIN-SUFFIX,v4.plex.tv
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,plex.direct
+  - DOMAIN-KEYWORD,ifconfig
+  - DOMAIN-KEYWORD,dns-query
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-KEYWORD,pconline  
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-KEYWORD,asmr
+  - DOMAIN-SUFFIX,mediafire.com
+  - DOMAIN-SUFFIX,v1.wzip.download
+  - DOMAIN-SUFFIX,v1.wzip.date
+  - DOMAIN-SUFFIX,v1.wnimg.ru
+  - DOMAIN-SUFFIX,downloads.plex.tv
+  - DOMAIN-SUFFIX,download.ni.com
