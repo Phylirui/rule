@@ -38,3 +38,4 @@ payload:
   - DOMAIN-SUFFIX,acm.org
 ## JSTOR 旗下
   - DOMAIN-SUFFIX,jstor.org
+  - DOMAIN-SUFFIX,del.19960217.cn
