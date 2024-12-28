@@ -10,3 +10,17 @@ payload:
   #- DOMAIN-SUFFIX,image.tmdb.org
   #- DOMAIN-SUFFIX,media.themoviedb.org
   #- DOMAIN-SUFFIX,api.themoviedb.org
+# Synology DDNS
+  - DOMAIN-SUFFIX,synology.me
+  - DOMAIN-SUFFIX,i234.me
+  - DOMAIN-SUFFIX,myDS.me
+  - DOMAIN-SUFFIX,DSCloud.me
+  - DOMAIN-SUFFIX,DSCloud.mobi
+  - DOMAIN-SUFFIX,DSCloud.biz
+  - DOMAIN-SUFFIX,DiskStation.me
+  - DOMAIN-SUFFIX,DSmyNAS.com
+  - DOMAIN-SUFFIX,DSmyNAS.net
+  - DOMAIN-SUFFIX,DSmyNAS.org
+  - DOMAIN-SUFFIX,FamilyDS.com
+  - DOMAIN-SUFFIX,FamilyDS.net
+  - DOMAIN-SUFFIX,FamilyDS.org
