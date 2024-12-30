@@ -29,3 +29,7 @@ payload:
   - DOMAIN-SUFFIX,downloads.plex.tv
   - DOMAIN-SUFFIX,download.ni.com
   - DOMAIN-SUFFIX,checkip.synology.com
+  - DOMAIN-SUFFIX,checkipv6.synology.com
+  - DOMAIN-SUFFIX,checkport.synology.com
+  - DOMAIN-SUFFIX,ddns.synology.com
+  - DOMAIN-SUFFIX,account.synology.com
