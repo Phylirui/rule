@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,v1.wzip.download
   - DOMAIN-SUFFIX,v1.wzip.date
   - DOMAIN-SUFFIX,v1.wnimg.ru
+  - DOMAIN-SUFFIX,ddns.oray.com
   - DOMAIN-SUFFIX,downloads.plex.tv
   - DOMAIN-SUFFIX,download.ni.com
   - DOMAIN-SUFFIX,checkip.synology.com
