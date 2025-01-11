@@ -22,6 +22,7 @@ payload:
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,pconline  
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-KEYWORD,asmr
   - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,v1.wzip.download
