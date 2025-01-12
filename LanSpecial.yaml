@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,lirui.us.kg
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,ruili.site
+  - DOMAIN-SUFFIX,production.cloudflare.docker.com
   - DOMAIN-SUFFIX,mao.fan/mynat
   - DOMAIN-SUFFIX,client.wns.windows.com
   - DOMAIN-SUFFIX,v4.plex.tv
