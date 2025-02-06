@@ -21,6 +21,8 @@ payload:
   - DOMAIN-KEYWORD,ifconfig
   - DOMAIN-KEYWORD,dns-query
   - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-KEYWORD,istoreos
+  - DOMAIN-KEYWORD,istore
   - DOMAIN-KEYWORD,pconline  
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipify.org
