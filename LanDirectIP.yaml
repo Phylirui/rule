@@ -20,5 +20,5 @@ payload:
   - SRC-IP-CIDR,192.168.5.236/30 ##192.168.5.236 - 192.168.5.239
   - SRC-IP-CIDR,192.168.5.240/28 ##192.168.5.240 - 192.168.5.255
 #Proxy: 192.168.5.114(MatePad), 192.168.5.235(OnePlus2Pro), 192.168.5.194(Synology), 192.168.5.207(Mac)
-#blockIP: 192.168.5.192
+#blockIP: 192.168.5.192(OnePlusAce2)
 #IP to CIDR: https://ip2cidr.com
