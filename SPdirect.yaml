@@ -76,3 +76,4 @@ payload:
   - DOMAIN-SUFFIX,acm.org
 ## JSTOR 旗下
   - DOMAIN-SUFFIX,jstor.org
+  - DOMAIN-SUFFIX,iopscience.iop.org
