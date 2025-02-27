@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,download.ni.com
   - PROCESS-NAME,AdGuardHome.exe
   - PROCESS-NAME,cloudflared.exe
+  - PROCESS-NAME,openp2p.exe
   - PROCESS-NAME,alist.exe
   - PROCESS-NAME,WeChat.exe
   - PROCESS-NAME,WeChatAppEx.exe
