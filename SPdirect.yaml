@@ -37,7 +37,7 @@ payload:
   - PROCESS-NAME,WeChatAppEx.exe
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,openp2p.exe
-##  - PROCESS-NAME,PotPlayerMini64.exe
+  - PROCESS-NAME,PotPlayerMini64.exe
 # Academic
 # 中国知网
   - DOMAIN-KEYWORD,cnki.net
