@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,googlevideo.com
   - SRC-IP-CIDR,192.168.5.12/32
