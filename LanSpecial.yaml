@@ -42,3 +42,5 @@ payload:
   - DOMAIN-SUFFIX,ddns.synology.com
   - DOMAIN-SUFFIX,account.synology.com
   - DOMAIN-SUFFIX,apiyi.com
+  - DOMAIN,www.zlketang.com
+  - DOMAIN-SUFFIX,zlketang.com
