@@ -5,6 +5,8 @@ payload:
   - DOMAIN,yacd.metacubex.one
   - DOMAIN,metacubex.github.io
   - DOMAIN,jsdelivr.net
+  - DOMAIN,www.zlketang.com
+  - DOMAIN-SUFFIX,zlketang.com
   - DOMAIN-SUFFIX,newport.com
   - DOMAIN-SUFFIX,19960217.cn
   - DOMAIN-SUFFIX,wrt.19960217.cn
