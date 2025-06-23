@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,media.themoviedb.org
   - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,api.tmdb.org
+  - DOMAIN-SUFFIX,themoviedb.org
