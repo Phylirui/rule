@@ -52,6 +52,7 @@ payload:
 # 查找 DOI
   - DOMAIN-SUFFIX,doi.org
 # SCI 综合
+  - DOMAIN-SUFFIX,science.org
   - DOMAIN-SUFFIX,researchgate.net
   - DOMAIN-SUFFIX,springer.com
   - DOMAIN-SUFFIX,blackwell-synergy.com
