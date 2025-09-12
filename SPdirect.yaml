@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,nature.com
   - DOMAIN-SUFFIX,sciencemag.org
   - DOMAIN-SUFFIX,osapublishing.org
+  - DOMAIN-SUFFIX,aip.org
 ## Willey 旗下
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-KEYWORD,readcube
