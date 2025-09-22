@@ -38,6 +38,7 @@ payload:
   - PROCESS-NAME,alist.exe
   - PROCESS-NAME,WeChat.exe
   - PROCESS-NAME,WeChatAppEx.exe
+  - PROCESS-NAME,Wexin.exe
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,PotPlayerMini64.exe
   - PROCESS-NAME,DownloadSDKServer.exe
