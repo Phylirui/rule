@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,api.tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,githubusercontent.com
