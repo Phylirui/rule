@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,api.tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,chinadigitaltimes.net
