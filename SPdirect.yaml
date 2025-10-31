@@ -43,6 +43,7 @@ payload:
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,PotPlayerMini64.exe
   - PROCESS-NAME,DownloadSDKServer.exe
+  - PROCESS-NAME-REGEX,.*IPTV.*
 # Academic
 # 中国知网
   - DOMAIN-KEYWORD,cnki.net
