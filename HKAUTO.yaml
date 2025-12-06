@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,zh.annas-archive.org
   - DOMAIN-SUFFIX,d.gxnas.com
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,ilovexs.com
