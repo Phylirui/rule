@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,javbus
-  - DOMAIN-SUFFIX,,google.com
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,www.youtube.com
   - DOMAIN-SUFFIX,zh.annas-archive.org
   - DOMAIN-SUFFIX,d.gxnas.com
   - DOMAIN-SUFFIX,jdbstatic.com
