@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,javbus
+  - DOMAIN-SUFFIX,fourhoi.com
   - DOMAIN-SUFFIX,insight.synology.com
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,google.com.hk
