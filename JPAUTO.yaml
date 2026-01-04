@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,faleno.jp
+  - DOMAIN-SUFFIX,javfree.me
   - PROCESS-NAME,JavSP.exe
   - DOMAIN-SUFFIX,affiliate.dmm.com
   - DOMAIN-SUFFIX,fc2ppvdb.com
