@@ -68,8 +68,15 @@ payload:
   - '*.istoreos.com'
   - '*.1panel.live'
   - '+.m.daocloud.io'
+  - docker.m.ixdev.cn
+  - dockerproxy.net
+  - image.cloudlayer.icu
+  - docker.13140521.xyz
+  - docker.anye.in
+  - docker.amingg.com
+  - hub.rat.dev
   - '+.services.googleapis.cn'
   - '+.nju.edu.cn'
   - '+.spaceship.com'
-  - 'ruili.us.ci'
-  - 'ruili.ccwu.cc'
+  - ruili.us.ci
+  - ruili.ccwu.cc
