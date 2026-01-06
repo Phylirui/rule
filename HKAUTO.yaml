@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,google.com.hk
   - DOMAIN-SUFFIX,jdbstatic.com
+  - DOMAIN-SUFFIX,cloudapi.vip
