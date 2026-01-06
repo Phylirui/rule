@@ -89,3 +89,14 @@ payload:
   - DOMAIN-SUFFIX,jstor.org
   - DOMAIN-SUFFIX,iopscience.iop.org
   - DOMAIN-SUFFIX,worldscientific.com
+##docker加速
+  - DOMAIN-SUFFIX,hub1.nat.tf
+  - DOMAIN-SUFFIX,hub2.nat.tf
+  - DOMAIN-SUFFIX,docker.m.ixdev.cn
+  - DOMAIN-SUFFIX,dockerproxy.net
+  - DOMAIN-SUFFIX,m.daocloud.io
+  - DOMAIN-SUFFIX,image.cloudlayer.icu
+  - DOMAIN-SUFFIX,docker.13140521.xyz
+  - DOMAIN-SUFFIX,docker.anye.in
+  - DOMAIN-SUFFIX,docker.amingg.com
+  - DOMAIN-SUFFIX,hub.rat.dev
