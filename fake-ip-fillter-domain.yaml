@@ -68,6 +68,7 @@ payload:
   - '*.istoreos.com'
   - '*.1panel.live'
   - '+.m.daocloud.io'
+  - hub1.nat.tf
   - docker.m.ixdev.cn
   - dockerproxy.net
   - image.cloudlayer.icu
