@@ -1,6 +1,11 @@
 payload:
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-SUFFIX,fourhoi.com
+  - DOMAIN-SUFFIX,fc2ppv.me
+  - DOMAIN-SUFFIX,javpop.com
+  - DOMAIN-SUFFIX,wumaobi.com
+  - DOMAIN-SUFFIX,ppvdatabank.com
+  - DOMAIN-SUFFIX,fc2ppv.image-sky.com
   - DOMAIN-SUFFIX,insight.synology.com
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
