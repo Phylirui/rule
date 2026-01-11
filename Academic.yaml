@@ -9,20 +9,12 @@ payload:
   - DOMAIN-SUFFIX,chndoi.com.cn
   - DOMAIN-SUFFIX,chndoi.net
   - DOMAIN-SUFFIX,chndoi.org
-  - DOMAIN-SUFFIX,cnki.net
-  - DOMAIN-SUFFIX,cnkidoi.cn
-  - DOMAIN-SUFFIX,cnkidoi.com
-  - DOMAIN-SUFFIX,cnkidoi.net
-  - DOMAIN-SUFFIX,cnkidoi.org
+  - DOMAIN-KEYWORD,cnki
   - DOMAIN-SUFFIX,wuxizazhi.cn
   - DOMAIN-SUFFIX,wuxizazhi.com
   - DOMAIN-SUFFIX,wuxizazhi.com.cn
   - DOMAIN-SUFFIX,wuxizazhi.net
   - DOMAIN-SUFFIX,wuxizazhi.net.cn
-  - DOMAIN-SUFFIX,stun2.l.google.com
-  - DOMAIN-SUFFIX,stun1.l.google.com
-  - DOMAIN-WILDCARD,stun*.l.google.com
-  - DOMAIN-KEYWORD,cnki
 # 万方
   - DOMAIN-KEYWORD,wanfangdata
 # 法律数据库
