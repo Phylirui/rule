@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,wuxizazhi.net
   - DOMAIN-SUFFIX,wuxizazhi.net.cn
   - DOMAIN-SUFFIX,stun2.l.google.com
+  - DOMAIN-SUFFIX,stun1.l.google.com
+  - DOMAIN-WILDCARD,stun*.l.google.com
   - DOMAIN-KEYWORD,cnki
 # 万方
   - DOMAIN-KEYWORD,wanfangdata
