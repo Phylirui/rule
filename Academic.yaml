@@ -1,5 +1,6 @@
 payload:
 #南京大学
+  - DOMAIN,p.nju.edu.cn
 # 中国知网
   - DOMAIN-SUFFIX,bbf.org.cn
   - DOMAIN-SUFFIX,bjsbnet.com
