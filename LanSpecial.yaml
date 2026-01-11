@@ -59,3 +59,4 @@ payload:
   - DOMAIN-SUFFIX,docker.anye.in
   - DOMAIN-SUFFIX,docker.amingg.com
   - DOMAIN-SUFFIX,hub.rat.dev
+  - DOMAIN-SUFFIX,ghcr.nju.edu.cn
