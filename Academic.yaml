@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,wuxizazhi.com.cn
   - DOMAIN-SUFFIX,wuxizazhi.net
   - DOMAIN-SUFFIX,wuxizazhi.net.cn
+  - DOMAIN-KEYWORD,cnki
 # 万方
   - DOMAIN-KEYWORD,wanfangdata
 # 法律数据库
