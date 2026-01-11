@@ -1,7 +1,23 @@
 payload:
 # Academic
 # 中国知网
-  - DOMAIN-KEYWORD,cnki.net
+  - DOMAIN-SUFFIX,bbf.org.cn
+  - DOMAIN-SUFFIX,bjsbnet.com
+  - DOMAIN-SUFFIX,chndoi.cn
+  - DOMAIN-SUFFIX,chndoi.com
+  - DOMAIN-SUFFIX,chndoi.com.cn
+  - DOMAIN-SUFFIX,chndoi.net
+  - DOMAIN-SUFFIX,chndoi.org
+  - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-SUFFIX,cnkidoi.cn
+  - DOMAIN-SUFFIX,cnkidoi.com
+  - DOMAIN-SUFFIX,cnkidoi.net
+  - DOMAIN-SUFFIX,cnkidoi.org
+  - DOMAIN-SUFFIX,wuxizazhi.cn
+  - DOMAIN-SUFFIX,wuxizazhi.com
+  - DOMAIN-SUFFIX,wuxizazhi.com.cn
+  - DOMAIN-SUFFIX,wuxizazhi.net
+  - DOMAIN-SUFFIX,wuxizazhi.net.cn
 # 万方
   - DOMAIN-KEYWORD,wanfangdata
 # 法律数据库
@@ -38,4 +54,3 @@ payload:
   - DOMAIN-SUFFIX,acm.org
 ## JSTOR 旗下
   - DOMAIN-SUFFIX,jstor.org
-  - DOMAIN-SUFFIX,del.19960217.cn
