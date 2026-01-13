@@ -27,8 +27,6 @@ payload:
   - DOMAIN-KEYWORD,istoreos
   - DOMAIN-KEYWORD,istore
   - DOMAIN-KEYWORD,pconline  
-  - DOMAIN-SUFFIX,ip.sb
-  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,checkmynat.com
   - DOMAIN-KEYWORD,asmr
   - DOMAIN-SUFFIX,mediafire.com
@@ -43,7 +41,6 @@ payload:
   - DOMAIN-SUFFIX,checkport.synology.com
   - DOMAIN-SUFFIX,ddns.synology.com
   - DOMAIN-SUFFIX,account.synology.com
-  - DOMAIN-SUFFIX,apiyi.com
   - DOMAIN,www.zlketang.com
   - DOMAIN-SUFFIX,zlketang.com
 ##docker加速
