@@ -1,8 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,laowang.vip
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,google.com.hk
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,cloudapi.vip
   - DOMAIN-SUFFIX,openrouter.ai
