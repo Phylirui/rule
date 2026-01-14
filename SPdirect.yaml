@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,v4.plex.tv
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,plex.direct
+  - DOMAIN-SUFFIX,ipapi.is
   - DOMAIN-KEYWORD,ifconfig
   - DOMAIN-KEYWORD,ipify
   - DOMAIN-KEYWORD,dns-query
