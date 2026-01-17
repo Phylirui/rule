@@ -1,36 +1,19 @@
 payload:
-# Special
+#clash面板
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
   - DOMAIN,board.zash.run.place
+# Special
   - DOMAIN,pkg-containers.githubusercontent.com
-  - DOMAIN,metacubex.github.io
   - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,19960217.cn
-  - DOMAIN-SUFFIX,istore.istoreos.com
-  - DOMAIN-SUFFIX,wrt.19960217.cn
-  - DOMAIN-SUFFIX,del4.19960217.cn 
-  - DOMAIN-SUFFIX,xudo.us.kg
-  - DOMAIN-SUFFIX,lirui.us.kg
   - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,ruili.site
   - DOMAIN-SUFFIX,chxza.eu.org
-  - DOMAIN-SUFFIX,mao.fan
   - DOMAIN-SUFFIX,client.wns.windows.com
   - DOMAIN-SUFFIX,v4.plex.tv
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,plex.direct
-  - DOMAIN-SUFFIX,ipapi.is
-  - DOMAIN-KEYWORD,ifconfig
-  - DOMAIN-KEYWORD,ipify
-  - DOMAIN-SUFFIX,ip.sb
-  - DOMAIN-KEYWORD,dns-query
   - DOMAIN-KEYWORD,speedtest
-  - DOMAIN-KEYWORD,istoreos
-  - DOMAIN-KEYWORD,istore
-  - DOMAIN-KEYWORD,pconline  
-  - DOMAIN-SUFFIX,checkmynat.com
   - DOMAIN-KEYWORD,asmr
   - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,v1.wzip.download
@@ -39,14 +22,32 @@ payload:
   - DOMAIN-SUFFIX,ddns.oray.com
   - DOMAIN-SUFFIX,downloads.plex.tv
   - DOMAIN-SUFFIX,download.ni.com
-  - DOMAIN-SUFFIX,checkip.synology.com
-  - DOMAIN-SUFFIX,checkipv6.synology.com
-  - DOMAIN-SUFFIX,checkport.synology.com
-  - DOMAIN-SUFFIX,ddns.synology.com
   - DOMAIN-SUFFIX,account.synology.com
   - DOMAIN,www.zlketang.com
   - DOMAIN-SUFFIX,zlketang.com
-##docker加速
+#ip检测
+  - DOMAIN-SUFFIX,ddns.synology.com
+  - DOMAIN-KEYWORD,dns-query
+  - DOMAIN-SUFFIX,ipapi.is
+  - DOMAIN-KEYWORD,ifconfig
+  - DOMAIN-KEYWORD,ipify
+  - DOMAIN-SUFFIX,mao.fan
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-KEYWORD,pconline  
+  - DOMAIN-SUFFIX,checkmynat.com
+  - DOMAIN-SUFFIX,checkip.synology.com
+  - DOMAIN-SUFFIX,checkipv6.synology.com
+  - DOMAIN-SUFFIX,checkport.synology.com  
+#个人域名
+  - DOMAIN-SUFFIX,ruili.site
+  - DOMAIN-SUFFIX,19960217.cn
+  - DOMAIN-SUFFIX,wrt.19960217.cn
+  - DOMAIN-SUFFIX,del4.19960217.cn 
+  - DOMAIN-SUFFIX,xudo.us.kg
+  - DOMAIN-SUFFIX,lirui.us.kg
+#istoreos
+  - DOMAIN-KEYWORD,istore
+#docker加速
   - DOMAIN-SUFFIX,hub1.nat.tf
   - DOMAIN-SUFFIX,hub2.nat.tf
   - DOMAIN-SUFFIX,docker.1ms.run
@@ -60,3 +61,4 @@ payload:
   - DOMAIN-SUFFIX,docker.amingg.com
   - DOMAIN-SUFFIX,hub.rat.dev
   - DOMAIN-SUFFIX,ghcr.nju.edu.cn
+#广告白名单
