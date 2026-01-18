@@ -1,41 +1,63 @@
 payload:
-# Special
+#clash面板
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN,yacd.metacubex.one
   - DOMAIN,board.zash.run.place
+# Special  
   - DOMAIN,pkg-containers.githubusercontent.com
-  - DOMAIN,metacubex.github.io
-  - DOMAIN,jsdelivr.net
-  - DOMAIN,www.zlketang.com
-  - DOMAIN-SUFFIX,zlketang.com
-  - DOMAIN-SUFFIX,newport.com
-  - DOMAIN-SUFFIX,19960217.cn
-  - DOMAIN-SUFFIX,wrt.19960217.cn
-  - DOMAIN-SUFFIX,del4.19960217.cn 
-  - DOMAIN-SUFFIX,xudo.us.kg
-  - DOMAIN-SUFFIX,lirui.us.kg
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,ruili.site
   - DOMAIN-SUFFIX,chxza.eu.org
   - DOMAIN-SUFFIX,client.wns.windows.com
   - DOMAIN-SUFFIX,v4.plex.tv
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,plex.direct
-  - DOMAIN-SUFFIX,ipapi.is
-  - DOMAIN-KEYWORD,ifconfig
-  - DOMAIN-KEYWORD,ipify
-  - DOMAIN-KEYWORD,dns-query
   - DOMAIN-KEYWORD,speedtest
-  - DOMAIN-KEYWORD,pconline  
-  - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-KEYWORD,asmr
   - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,v1.wzip.download
   - DOMAIN-SUFFIX,v1.wzip.date
   - DOMAIN-SUFFIX,v1.wnimg.ru
+  - DOMAIN-SUFFIX,ddns.oray.com
   - DOMAIN-SUFFIX,downloads.plex.tv
   - DOMAIN-SUFFIX,download.ni.com
+  - DOMAIN-SUFFIX,account.synology.com
+  - DOMAIN,www.zlketang.com
+  - DOMAIN-SUFFIX,zlketang.com
+##docker加速
+  - DOMAIN-SUFFIX,hub1.nat.tf
+  - DOMAIN-SUFFIX,hub2.nat.tf
+  - DOMAIN-SUFFIX,docker.m.ixdev.cn
+  - DOMAIN-SUFFIX,dockerproxy.net
+  - DOMAIN-SUFFIX,m.daocloud.io
+  - DOMAIN-SUFFIX,image.cloudlayer.icu
+  - DOMAIN-SUFFIX,docker.13140521.xyz
+  - DOMAIN-SUFFIX,docker.anye.in
+  - DOMAIN-SUFFIX,docker.amingg.com
+  - DOMAIN-SUFFIX,hub.rat.dev
+#ip检测
+  - DOMAIN-SUFFIX,ddns.synology.com
+  - DOMAIN-KEYWORD,dns-query
+  - DOMAIN-SUFFIX,ipapi.is
+  - DOMAIN-KEYWORD,ifconfig
+  - DOMAIN-KEYWORD,ipify
+  - DOMAIN-SUFFIX,mao.fan
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-KEYWORD,pconline  
+  - DOMAIN-SUFFIX,checkmynat.com
+#个人域名
+  - DOMAIN-SUFFIX,ruili.site
+  - DOMAIN-SUFFIX,19960217.cn
+  - DOMAIN-SUFFIX,wrt.19960217.cn
+  - DOMAIN-SUFFIX,del4.19960217.cn 
+  - DOMAIN-SUFFIX,sudo.us.ci
+  - DOMAIN-SUFFIX,ruili.us.ci
+  - DOMAIN-SUFFIX,ruili.ccwu.cc
+  - DOMAIN-SUFFIX,19951201.xyz
+  - DOMAIN-SUFFIX,960217.xyz
+  - DOMAIN-SUFFIX,271219.xyz
+#PROCESS
   - PROCESS-NAME,AdGuardHome.exe
   - PROCESS-NAME,cloudflared.exe
   - PROCESS-NAME,openp2p.exe
@@ -49,7 +71,19 @@ payload:
   - PROCESS-NAME-REGEX,.*IPTV.*
 # Academic
 # 中国知网
-  - DOMAIN-KEYWORD,cnki.net
+  - DOMAIN-SUFFIX,bbf.org.cn
+  - DOMAIN-SUFFIX,bjsbnet.com
+  - DOMAIN-SUFFIX,chndoi.cn
+  - DOMAIN-SUFFIX,chndoi.com
+  - DOMAIN-SUFFIX,chndoi.com.cn
+  - DOMAIN-SUFFIX,chndoi.net
+  - DOMAIN-SUFFIX,chndoi.org
+  - DOMAIN-KEYWORD,cnki
+  - DOMAIN-SUFFIX,wuxizazhi.cn
+  - DOMAIN-SUFFIX,wuxizazhi.com
+  - DOMAIN-SUFFIX,wuxizazhi.com.cn
+  - DOMAIN-SUFFIX,wuxizazhi.net
+  - DOMAIN-SUFFIX,wuxizazhi.net.cn
 # 万方
   - DOMAIN-KEYWORD,wanfangdata
 # 法律数据库
@@ -90,14 +124,3 @@ payload:
   - DOMAIN-SUFFIX,jstor.org
   - DOMAIN-SUFFIX,iopscience.iop.org
   - DOMAIN-SUFFIX,worldscientific.com
-##docker加速
-  - DOMAIN-SUFFIX,hub1.nat.tf
-  - DOMAIN-SUFFIX,hub2.nat.tf
-  - DOMAIN-SUFFIX,docker.m.ixdev.cn
-  - DOMAIN-SUFFIX,dockerproxy.net
-  - DOMAIN-SUFFIX,m.daocloud.io
-  - DOMAIN-SUFFIX,image.cloudlayer.icu
-  - DOMAIN-SUFFIX,docker.13140521.xyz
-  - DOMAIN-SUFFIX,docker.anye.in
-  - DOMAIN-SUFFIX,docker.amingg.com
-  - DOMAIN-SUFFIX,hub.rat.dev
