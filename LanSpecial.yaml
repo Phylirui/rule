@@ -43,8 +43,12 @@ payload:
   - DOMAIN-SUFFIX,19960217.cn
   - DOMAIN-SUFFIX,wrt.19960217.cn
   - DOMAIN-SUFFIX,del4.19960217.cn 
-  - DOMAIN-SUFFIX,xudo.us.kg
-  - DOMAIN-SUFFIX,lirui.us.kg
+  - DOMAIN-SUFFIX,sudo.us.ci
+  - DOMAIN-SUFFIX,ruili.us.ci
+  - DOMAIN-SUFFIX,ruili.ccwu.cc
+  - DOMAIN-SUFFIX,19951201.xyz
+  - DOMAIN-SUFFIX,960217.xyz
+  - DOMAIN-SUFFIX,271219.xyz
 #istoreos
   - DOMAIN-KEYWORD,istore
   - DOMAIN-KEYWORD,tsinghua
