@@ -65,3 +65,4 @@ payload:
   - DOMAIN-SUFFIX,hub.rat.dev
   - DOMAIN-SUFFIX,ghcr.nju.edu.cn
 #广告白名单
+  - DOMAIN-SUFFIX,fqnovel.com
