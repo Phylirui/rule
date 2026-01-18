@@ -47,6 +47,9 @@ payload:
   - DOMAIN-SUFFIX,lirui.us.kg
 #istoreos
   - DOMAIN-KEYWORD,istore
+  - DOMAIN-KEYWORD,tsinghua
+  - DOMAIN-KEYWORD,ustc
+  - DOMAIN-KEYWORD,cernet
 #docker加速
   - DOMAIN-SUFFIX,hub1.nat.tf
   - DOMAIN-SUFFIX,hub2.nat.tf
