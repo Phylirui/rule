@@ -66,3 +66,4 @@ payload:
   - DOMAIN-SUFFIX,ghcr.nju.edu.cn
 #广告白名单
   - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,zijieapi.com
