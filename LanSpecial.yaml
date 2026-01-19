@@ -40,9 +40,8 @@ payload:
   - DOMAIN-SUFFIX,checkport.synology.com  
 #个人域名
   - DOMAIN-SUFFIX,ruili.site
-  - DOMAIN-SUFFIX,19960217.cn
+  - DOMAIN,19960217.cn
   - DOMAIN-SUFFIX,wrt.19960217.cn
-  - DOMAIN-SUFFIX,del4.19960217.cn 
   - DOMAIN-SUFFIX,sudo.us.ci
   - DOMAIN-SUFFIX,ruili.us.ci
   - DOMAIN-SUFFIX,ruili.ccwu.cc
