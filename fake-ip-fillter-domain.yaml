@@ -13,6 +13,11 @@ payload:
   - '+.ts.net'
   - '+.zte.home'
   - '+.my.router'
+  # === Cloudflared隧道相关域名 ===
+  - '+.argotunnel.com'
+  - '+.cloudflare.com'
+  - '+.cloudflare.net'
+  - 'cfd-features.argotunnel.com'
   # === 路由器管理地址及各大厂商配置域名 ===
   - '+.asusrouter.com'
   - '+.router.asus.com'
