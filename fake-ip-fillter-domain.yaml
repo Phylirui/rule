@@ -214,40 +214,7 @@ payload:
   - '+.gcloudcs.com'
   - '+.gcloudsdk.com'
   - '+.dynv6.net'
-  #Special
-  - '*.home.arpa'
-  - '+.ipv6s.com'
-  - '+.ipv6ready.me'
-  - '+.msftconnecttest.com'
-  - '+.msftncsi.com'
-  - '+.srv.nintendo.net'
-  - '*.n.n.srv.nintendo.net'
-  - '+.cdn.nintendo.net'
-  - heartbeat.belkin.com
-  - '*.linksys.com'
-  - '*.linksyssmartwifi.com'
-  - '*.router.asus.com'
-  - mesu.apple.com
-  - swscan.apple.com
-  - swquery.apple.com
-  - swdownload.apple.com
-  - swcdn.apple.com
-  - swdist.apple.com
-  - lens.l.google.com
-  - na.b.g-tun.com
-  - '*.square-enix.com'
-  - '*.finalfantasyxiv.com'
-  - '*.ffxiv.com'
-  - '*.ff14.sdo.com'
-  - ff.dorado.sdo.com
-  - '+.media.dssott.com'
-  - shark007.net
-  - local.adguard.org
-  - '+.sandai.net'
-  - '+.n0808.com'
-  - '+.uu.163.com'
-  - ps.res.netease.com
-  - '+.960217.xyz'
+  # === Docker 加速 ===
   - '*.d4ctech.com'
   - '*.kspeeder.com'
   - '*.1ms.run'
@@ -263,6 +230,10 @@ payload:
   - docker.anye.in
   - docker.amingg.com
   - hub.rat.dev
+  # === Special ===
+  - '+.ipv6s.com'
+  - '+.ipv6ready.me'
+  - '+.960217.xyz'  
   - '+.services.googleapis.cn'
   - '+.nju.edu.cn'
   - '+.spaceship.com'
