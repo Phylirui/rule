@@ -13,7 +13,6 @@ payload:
   - '+.ts.net'
   - '+.zte.home'
   - '+.my.router'
-  - 'Mijia Cloud'
   # === 路由器管理地址及各大厂商配置域名 ===
   - '+.asusrouter.com'
   - '+.router.asus.com'
