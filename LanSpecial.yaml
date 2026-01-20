@@ -25,6 +25,10 @@ payload:
   - DOMAIN-SUFFIX,account.synology.com
   - DOMAIN,www.zlketang.com
   - DOMAIN-SUFFIX,zlketang.com
+# Cloudflared隧道
+  - DOMAIN-SUFFIX,argotunnel.com,DIRECT
+  - DOMAIN-SUFFIX,cloudflare.com,DIRECT
+  - DOMAIN-SUFFIX,cloudflare.net,DIRECT
 #ip检测
   - DOMAIN-SUFFIX,ddns.synology.com
   - DOMAIN-KEYWORD,dns-query
