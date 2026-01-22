@@ -58,6 +58,9 @@ payload:
   - DOMAIN-KEYWORD,ustc
   - DOMAIN-KEYWORD,cernet
 #docker加速
+  - DOMAIN-SUFFIX,d4ctech.com
+  - DOMAIN-SUFFIX,kspeeder.com
+  - DOMAIN-SUFFIX,koolcenter.com
   - DOMAIN-SUFFIX,hub1.nat.tf
   - DOMAIN-SUFFIX,hub2.nat.tf
   - DOMAIN-SUFFIX,docker.1ms.run
