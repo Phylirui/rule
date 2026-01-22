@@ -6,7 +6,6 @@ payload:
   - DOMAIN,board.zash.run.place
 # Special  
   - DOMAIN,pkg-containers.githubusercontent.com
-  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,chxza.eu.org
   - DOMAIN-SUFFIX,client.wns.windows.com
