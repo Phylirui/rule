@@ -235,6 +235,7 @@ payload:
   - docker.amingg.com
   - hub.rat.dev
   # === Special ===
+  - 'speedtest.*.com'
   - '+.ipv6s.com'
   - '+.ipv6ready.me'
   - '+.960217.xyz'  
