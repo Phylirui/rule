@@ -1,2 +1,5 @@
 payload:
-  - SRC-IP-SUFFIX,::68c6/16
+  - SRC-IP-SUFFIX,::a066/16
+  - SRC-IP-SUFFIX,::762f/16
+  - SRC-IP-SUFFIX,::1705/16
+  - SRC-IP-SUFFIX,::ac3f/16
