@@ -1,6 +1,2 @@
 payload:
-  - SRC-IP-SUFFIX,:68c6
-
-
-
-/etc/openclash/rule_provider/LanSUFFIX.yaml
+  - SRC-IP-SUFFIX,::68c6/16
