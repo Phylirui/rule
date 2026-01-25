@@ -3,4 +3,5 @@ payload:
   - SRC-IP-SUFFIX,::6b6d/16  #OnePlus-Ace-2
   - SRC-IP-SUFFIX,::7f1d/16  #OnePlus-Ace-2
   - SRC-IP-SUFFIX,::84ea/16  #iQOO-Z10-Turbo
+  - SRC-IP-SUFFIX,::8aee/16  #iQOO-Z1x
   - SRC-IP-SUFFIX,::e23c/16  #OnePlus-Ace-2
