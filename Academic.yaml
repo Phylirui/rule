@@ -1,54 +1,22 @@
 payload:
-#南京大学
-  - DOMAIN,p.nju.edu.cn
-  - DOMAIN-SUFFIX,del4.19960217.cn 
-# 中国知网
-  - DOMAIN-SUFFIX,bbf.org.cn
-  - DOMAIN-SUFFIX,bjsbnet.com
-  - DOMAIN-SUFFIX,chndoi.cn
-  - DOMAIN-SUFFIX,chndoi.com
-  - DOMAIN-SUFFIX,chndoi.com.cn
-  - DOMAIN-SUFFIX,chndoi.net
-  - DOMAIN-SUFFIX,chndoi.org
-  - DOMAIN-KEYWORD,cnki
-  - DOMAIN-SUFFIX,wuxizazhi.cn
-  - DOMAIN-SUFFIX,wuxizazhi.com
-  - DOMAIN-SUFFIX,wuxizazhi.com.cn
-  - DOMAIN-SUFFIX,wuxizazhi.net
-  - DOMAIN-SUFFIX,wuxizazhi.net.cn
-# 万方
-  - DOMAIN-KEYWORD,wanfangdata
-# 法律数据库
-  - DOMAIN-KEYWORD,pkulaw
-  - DOMAIN-KEYWORD,westlawchina
-# 查找 DOI
-  - DOMAIN-SUFFIX,doi.org
-# SCI 综合
-  - DOMAIN-SUFFIX,researchgate.net
-  - DOMAIN-SUFFIX,springer.com
-  - DOMAIN-SUFFIX,blackwell-synergy.com
-  - DOMAIN-SUFFIX,sciencemag.org
-  - DOMAIN-SUFFIX,jstor.org
-  - DOMAIN-SUFFIX,cabdirect.org
-  - DOMAIN-SUFFIX,ieee.org
-  - DOMAIN-SUFFIX,aps.org
-  - DOMAIN-SUFFIX,nature.com
-  - DOMAIN-SUFFIX,sciencemag.org
-  - DOMAIN-SUFFIX,osapublishing.org
-## Willey 旗下
-  - DOMAIN-SUFFIX,wiley.com
-  - DOMAIN-KEYWORD,readcube
-## Elsevier 旗下
-  - DOMAIN-SUFFIX,scopus.com
-  - DOMAIN-KEYWORD,sciencedirect
-  - DOMAIN-KEYWORD,elsevier
-  - DOMAIN-KEYWORD,deepdyve
-  - DOMAIN-KEYWORD,els-cdn
-## Oxford 出版系列
-  - DOMAIN-SUFFIX,oup.com
-## Springer 旗下
-  - DOMAIN-SUFFIX,springernature.com
-# ACM (Association for Computing Machinery)
-  - DOMAIN-SUFFIX,acm.org
-## JSTOR 旗下
-  - DOMAIN-SUFFIX,jstor.org
+# 南京大学 (包含 p.nju.edu.cn)
+  - nju.edu.cn
+  - del4.19960217.cn
+# 中国知网 (已覆盖 bbf, bjsbnet 等所有子域名及 cnki 关键词)
+  - cnki.net
+  - cnkidoi.cn
+  - cnkidoi.com
+  - cnkidoi.net
+  - cnkidoi.org
+  - bbf.org.cn
+  - bjsbnet.com
+  - chndoi.cn
+  - chndoi.com
+  - chndoi.com.cn
+  - chndoi.net
+  - chndoi.org
+  - wuxizazhi.cn
+  - wuxizazhi.com
+  - wuxizazhi.com.cn
+  - wuxizazhi.net
+  - wuxizazhi.net.cn
