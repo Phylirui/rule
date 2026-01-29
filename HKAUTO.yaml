@@ -1,6 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,laowang.vip
-  - DOMAIN-SUFFIX,jdbstatic.com
-  - DOMAIN-SUFFIX,cloudapi.vip
-  - DOMAIN-KEYWORD,glados
-  - DOMAIN-SUFFIX,www.youtube.com
+  - laowang.vip
+  - jdbstatic.com
+  - cloudapi.vip
+  - youtube.com
+  - glados.rocks
+  - glados.cloud
