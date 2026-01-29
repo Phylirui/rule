@@ -1,7 +1,7 @@
 payload:
-  - laowang.vip
-  - jdbstatic.com
-  - cloudapi.vip
-  - youtube.com
-  - glados.rocks
-  - glados.cloud
+  - '+.laowang.vip'
+  - '+.jdbstatic.com'
+  - '+.cloudapi.vip'
+  - '+.youtube.com'
+  - '+.glados.rocks'
+  - '+.glados.cloud'
