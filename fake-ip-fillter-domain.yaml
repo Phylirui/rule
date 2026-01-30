@@ -242,8 +242,10 @@ payload:
   - '+.services.googleapis.cn'
   - '+.nju.edu.cn'
   - '+.spaceship.com'
-  - ruili.us.ci
-  - ruili.ccwu.cc
+  - '+.ruili.us.ci'
+  - '+.ruili.ccwu.cc'
+  - '+.ruili.site'
+  - '+.19960217.cn'
   - 'speed.neu6.edu.cn'
   - 'myip6.ipip.net'
   - '+.66666.host'
