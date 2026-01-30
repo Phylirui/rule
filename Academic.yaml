@@ -3,20 +3,11 @@ payload:
   - nju.edu.cn
   - del4.19960217.cn
 # 中国知网 (已覆盖 bbf, bjsbnet 等所有子域名及 cnki 关键词)
-  - cnki.net
-  - cnkidoi.cn
-  - cnkidoi.com
-  - cnkidoi.net
-  - cnkidoi.org
-  - bbf.org.cn
-  - bjsbnet.com
-  - chndoi.cn
-  - chndoi.com
-  - chndoi.com.cn
-  - chndoi.net
-  - chndoi.org
-  - wuxizazhi.cn
-  - wuxizazhi.com
-  - wuxizazhi.com.cn
-  - wuxizazhi.net
-  - wuxizazhi.net.cn
+  - '+.cnki.*'
+  - '+.cnkidoi.*'
+  - '+.bbf.org.cn'
+  - '+.bjsbnet.com'
+  - '+.chndoi.*'
+  - '+.chndoi.com.cn'
+  - '+.wuxizazhi.*'
+  - '+.wuxizazhi.*.cn'
