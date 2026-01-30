@@ -45,6 +45,7 @@ payload:
   - '+.checkip.synology.com'
   - '+.checkipv6.synology.com'
   - '+.checkport.synology.com'
+  - checkipv6.dyndns.com
 #个人域名
   - '+.ruili.site'
   - 19960217.cn
