@@ -1,7 +1,9 @@
 payload:
-  - '+.update.synology.com'
-  - '+.update7.synology.com'
-  - '+.autoupdate7.synology.com'
-  - '+.autoupdate7.synology.cn'
-  - '+.osus.synology.com'
-  - '+.update2.synology.com'
+  - DOMAIN-SUFFIX,update.synology.com
+  - DOMAIN-SUFFIX,update7.synology.com
+  - DOMAIN-SUFFIX,autoupdate7.synology.com
+  - DOMAIN-SUFFIX,autoupdate7.synology.cn
+  - DOMAIN-SUFFIX,osus.synology.com
+  - DOMAIN-SUFFIX,update2.synology.com
+  - SRC-IP-CIDR,192.168.5.187/32
+  - SRC-IP-CIDR,192.168.5.17/32
