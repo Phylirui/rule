@@ -2,11 +2,12 @@ payload:
 # time
     - DST-PORT,123
  #EMAIL port
-    - DST-PORT,21-26
-    - DST-PORT,110
-    - DST-PORT,465
-    - DST-PORT,587
-    - DST-PORT,2525
+    - DST-PORT,21 #FTP协议
+    - DST-PORT,23 #Telnet
 # 端口范围
-    - DST-PORT,444-1079/1081-8079
-    - DST-PORT,8082-9089/9091-18079/18081-65535
+    - DST-PORT,444-992         # 避开了 443 和 993
+    - DST-PORT,994             # 避开了 993 和 995
+    - DST-PORT,996-1079        # 避开了 995
+    - DST-PORT,1081-8079       # 避开了 1080 (本地代理)
+    - DST-PORT,8082-9089       # 避开了 8080/8081 和 9090
+    - DST-PORT,9091-65535      # 绝大部分高位端口直连（用于下载）
