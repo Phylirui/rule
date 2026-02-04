@@ -5,5 +5,11 @@ payload:
   - DOMAIN-SUFFIX,autoupdate7.synology.cn
   - DOMAIN-SUFFIX,osus.synology.com
   - DOMAIN-SUFFIX,update2.synology.com
+  - DOMAIN,gdmf.apple.com
+  - DOMAIN,swscan.apple.com
+  - DOMAIN,swquery.apple.com
+  - DOMAIN,swdownload.apple.com
+  - DOMAIN,swcdn.apple.com
+  - DOMAIN,mesu.apple.com
   - SRC-IP-CIDR,192.168.5.187/32
   - SRC-IP-CIDR,192.168.5.17/32
