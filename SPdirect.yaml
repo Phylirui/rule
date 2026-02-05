@@ -6,6 +6,7 @@ payload:
   - board.zash.run.place
 # Special
   - pkg-containers.githubusercontent.com
+  - hostme.blob.core.windows.net
   - '+.jsdelivr.net'
   - '+.sharepoint.com'
   - '+.chxza.eu.org'
