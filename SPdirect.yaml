@@ -7,6 +7,7 @@ payload:
 # Special
   - pkg-containers.githubusercontent.com
   - hostme.blob.core.windows.net
+  - rewards.bing.com
   - '+.jsdelivr.net'
   - '+.sharepoint.com'
   - '+.chxza.eu.org'
