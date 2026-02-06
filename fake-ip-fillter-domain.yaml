@@ -236,6 +236,9 @@ payload:
   - hub.rat.dev
   # === Special ===
   - 'speedtest.*.com'
+  - 'mirrors.ustc.edu.cn'
+  - 'docker-cf.mrs.1ms.run'
+  - 'mirrors.huaweicloud.com'
   - '+.ipv6s.com'
   - '+.ipv6ready.me'
   - '+.960217.xyz'  
