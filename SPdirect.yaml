@@ -91,3 +91,5 @@ payload:
   - '+.chndoi.com.cn'
   - '+.wuxizazhi.*'
   - '+.wuxizazhi.*.cn'
+# 广告白名单
+  - pprainbow.cloudxin.ai
