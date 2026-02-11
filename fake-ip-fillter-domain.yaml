@@ -254,3 +254,5 @@ payload:
   - '+.66666.host'
   - '6.ipw.cn'
   - 'ipv6.ddnspod.com'
+  - 'api.openp2p.cn'
+  - '+.openp2p.cn'
