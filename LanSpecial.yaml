@@ -85,6 +85,7 @@ payload:
 #广告白名单
   - '+.fqnovel.com'
   - '+.zijieapi.com'
+  - down.sandai.net
   - pprainbow.cloudxin.ai
   - fourier.taobao.com
   - csearch.cloudvideocdn.taobao.com
