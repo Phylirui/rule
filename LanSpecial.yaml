@@ -21,6 +21,8 @@ payload:
   - '+.download.ni.com'
   - '+.account.synology.com'
   - '+.zlketang.com'
+  - 'asmrgay.*'
+  - 'asmr.*.xyz'
 # Cloudflared隧道
   - '+.argotunnel.com'
   - '+.cloudflare.com'
