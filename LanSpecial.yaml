@@ -86,3 +86,10 @@ payload:
   - '+.docker.amingg.com'
   - '+.hub.rat.dev'
   - '+.ghcr.nju.edu.cn'
+##DHT节点
+  - 'dht.transmissionbt.com'
+  - 'router.bittorrent.com'
+  - 'router.utorrent.com'
+  - 'dht.aelitis.com'
+  - '+.tracker.*'
+  - '+.announce.*'
