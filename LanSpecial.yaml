@@ -86,6 +86,7 @@ payload:
   - '+.docker.amingg.com'
   - '+.hub.rat.dev'
   - '+.ghcr.nju.edu.cn'
+  - mirror.houlang.cloud
 ##DHT节点
   - 'dht.transmissionbt.com'
   - 'router.bittorrent.com'
