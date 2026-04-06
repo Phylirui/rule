@@ -235,6 +235,7 @@ payload:
   - docker.amingg.com
   - hub.rat.dev
   - mirror.houlang.cloud
+  - docker.kejilion.pro
   # === Special ===
   - 'speedtest.*.com'
   - 'mirrors.ustc.edu.cn'
