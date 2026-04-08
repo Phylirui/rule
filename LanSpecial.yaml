@@ -73,8 +73,10 @@ payload:
   - '+.d4ctech.com'
   - '+.kspeeder.com'
   - '+.koolcenter.com'
-  - '+.hub1.nat.tf'
-  - '+.hub2.nat.tf'
+  - 'hub1.nat.tf'
+  - 'hub2.nat.tf'
+  - 'hub3.nat.tf'
+  - 'hub4.nat.tf'
   - '+.docker.1ms.run'
   - '+.docker.m.ixdev.cn'
   - '+.dockerproxy.net'
@@ -86,8 +88,8 @@ payload:
   - '+.docker.amingg.com'
   - '+.hub.rat.dev'
   - '+.ghcr.nju.edu.cn'
-  - mirror.houlang.cloud
-  - docker.kejilion.pro
+  - 'mirror.houlang.cloud'
+  - 'docker.kejilion.pro'
 ##DHT节点
   - 'dht.transmissionbt.com'
   - 'router.bittorrent.com'
