@@ -90,6 +90,7 @@ payload:
   - '+.ghcr.nju.edu.cn'
   - 'mirror.houlang.cloud'
   - 'docker.kejilion.pro'
+  - 'registry-1.docker.io'
 ##DHT节点
   - 'dht.transmissionbt.com'
   - 'router.bittorrent.com'
