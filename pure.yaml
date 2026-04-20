@@ -5,3 +5,5 @@ payload:
   - '+.openrouter.ai'
   - '+.cloudapi.vip'
   - 'chat.cloudapi.vip'
+  - 'annas-archive.*'
+  - '+.annas-archive.*'
