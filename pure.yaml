@@ -7,3 +7,4 @@ payload:
   - 'chat.cloudapi.vip'
   - 'annas-archive.*'
   - '+.annas-archive.*'
+  - 'dash.cloudflare.com'
