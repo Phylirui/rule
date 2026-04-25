@@ -91,6 +91,7 @@ payload:
   - 'mirror.houlang.cloud'
   - 'docker.kejilion.pro'
   - 'registry-1.docker.io'
+  - '+.r2.daocloud.vip'
 ##DHT节点
   - 'dht.transmissionbt.com'
   - 'router.bittorrent.com'
