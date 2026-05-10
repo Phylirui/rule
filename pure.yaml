@@ -8,3 +8,4 @@ payload:
   - 'annas-archive.*'
   - '+.annas-archive.*'
   - 'dash.cloudflare.com'
+  - '+.av-league.com'
