@@ -5,6 +5,7 @@ payload:
   - yacd.metacubex.one
   - board.zash.run.place
 # Special
+  - api.apiyi.com
   - '+.gov.cn'
   - '+.jsdelivr.net'
   - '+.sharepoint.com'
