@@ -18,6 +18,10 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.net'
   - 'cfd-features.argotunnel.com'
+  # === 潮汐 ===
+  - 'www.windy.com'
+  - 'www.worldtides.info'
+  - 'www.tide-forecast.com'
   # === 路由器管理地址及各大厂商配置域名 ===
   - '+.asusrouter.com'
   - '+.router.asus.com'
