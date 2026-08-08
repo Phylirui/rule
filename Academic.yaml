@@ -6,7 +6,7 @@ payload:
   - 'del6.19960217.cn'
   - '+.leno4.19960217.cn'
   - '+.cym.19960217.cn'
-  - '+.leno.19960217.cn'
+  - 'cym.leno.19960217.cn'
   - '+.gmk.19960217.cn'
 #  - 'ghcr.nju.edu.cn'
 # 中国知网 (已覆盖 bbf, bjsbnet 等所有子域名及 cnki 关键词)
