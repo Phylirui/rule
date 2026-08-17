@@ -1,6 +1,7 @@
 payload:
 # 南京大学 (包含 p.nju.edu.cn)
   - p.nju.edu.cn
+  - ehall.nju.edu.cn
   - '+.del4.19960217.cn'
   - '*.del4.19960217.cn'
   - 'del6.19960217.cn'
