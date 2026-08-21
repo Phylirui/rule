@@ -18,6 +18,7 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.net'
   - 'cfd-features.argotunnel.com'
+  - 'ds.iris.edu'
   # === 潮汐 ===
   - 'www.windy.com'
   - 'www.worldtides.info'
