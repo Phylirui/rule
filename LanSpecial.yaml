@@ -53,6 +53,9 @@ payload:
   - '+.checkport.synology.com'
   - checkipv6.dyndns.com
 #个人域名
+  - open.ruili.site
+  - syno.ruili.site
+  - immich.ruili.site
   - '+.ruili.site'
   - 19960217.cn
   - '+.wrt.19960217.cn'
