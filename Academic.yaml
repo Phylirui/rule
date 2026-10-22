@@ -6,7 +6,7 @@ payload:
   - '*.del4.19960217.cn'
   - 'del6.19960217.cn'
   - '+.leno4.19960217.cn'
-  - '+.cym.19960217.cn'
+  - '+.cym.leno.19960217.cn'
   - 'cym.leno.19960217.cn'
   - '+.gmk.19960217.cn'
 #  - 'ghcr.nju.edu.cn'
